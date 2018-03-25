@@ -1,7 +1,7 @@
 
-# Socket.IO Chat
+# DroneNet Chat Client, brought to you by Socket.IO Chat
 
-A simple chat demo for socket.io
+A simple chat demo from socket.io (`https://github.com/socketio/socket.io`)
 
 ## How to use
 
@@ -13,7 +13,7 @@ $ npm install
 $ npm start
 ```
 
-And point your browser to `http://localhost:3000`. Optionally, specify
+And point the clients to `http://localhost:3000`. Optionally, specify
 a port by supplying the `PORT` env variable.
 
 ## Features
