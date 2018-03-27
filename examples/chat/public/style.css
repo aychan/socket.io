@@ -2,6 +2,8 @@
 
 * {
   box-sizing: border-box;
+  font-size: 5vh;
+  font-size-adjust: inherit;
 }
 
 html {
@@ -139,7 +141,7 @@ ul {
 .inputMessage {
   border: 10px solid #000;
   bottom: 0;
-  height: 60px;
+  height: 10vh;
   left: 0;
   outline: none;
   padding-left: 10px;

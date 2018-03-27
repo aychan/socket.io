@@ -1,7 +1,7 @@
 {
-  "name": "socket.io-chat",
+  "name": "DroneNet Chat",
   "version": "0.0.0",
-  "description": "A simple chat client using socket.io",
+  "description": "Chat client using socket.io. All credit to Author Grant Timmerman",
   "main": "index.js",
   "author": "Grant Timmerman",
   "private": true,
